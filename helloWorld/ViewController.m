@@ -17,6 +17,7 @@
 
 - (void)viewDidLoad
 {
+    //HARDY HAR HAR HAR GITTME
     //next text
     [super viewDidLoad];
     //one tf prog and 1 label prog
